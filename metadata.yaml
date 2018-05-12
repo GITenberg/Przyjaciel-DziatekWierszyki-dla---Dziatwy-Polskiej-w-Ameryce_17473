@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '7410'
     url: http://www.gutenberg.org/2009/agents/7410
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17473#Przyjaciel-DziatekWierszyki-dla---Dziatwy-Polskiej-w-Ameryce
 gutenberg_issued: '2006-01-07'
 gutenberg_type: Text
 identifiers:
